@@ -1,4 +1,4 @@
-# PrivTI: An Efficient End-to-End Privacy-Preserving Inference Framework
+# PrivTI: Efficient End-to-End Privacy-Preserving Inference for Transformer-based Models in MLaaS
 
 This repo contains the source code for the PrivTI implemented in C++. The code has been developed and tested with Ubuntu 22.04.
 
