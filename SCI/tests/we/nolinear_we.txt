@@ -1,0 +1,164 @@
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltgelu-we r=1
+All Base OTs Done
+Number of operation/s:	80408.4
+operation Time	2445.12 ms
+operation Bytes Sent	385789952 bytes
+operation rounds	116 round
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltsoftmax-we r=1
+All Base OTs Done
+Number of operation/s:	86.3413
+operation Time	741.244 ms
+operation Bytes Sent	16616688 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltlayernorm-we r=1
+All Base OTs Done
+Number of operation/s:	32.5088
+operation Time	1968.69 ms
+operation Bytes Sent	228449232 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testgelu-we r=1
+All Base OTs Done
+Number of operation/s:	56240.7
+operation Time	3495.83 ms
+operation Bytes Sent	578322432 bytes
+operation rounds	137 round
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testsoftmax-we r=1
+All Base OTs Done
+Number of operation/s:	74.9998
+operation Time	853.336 ms
+operation Bytes Sent	19576560 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testlayernorm-we r=1
+All Base OTs Done
+Number of operation/s:	35.7026
+operation Time	1792.59 ms
+operation Bytes Sent	228449232 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltgelu-we r=1
+All Base OTs Done
+Number of operation/s:	5560.82
+operation Time	35355.9 ms
+operation Bytes Sent	385789952 bytes
+operation rounds	116 round
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltsoftmax-we r=1
+All Base OTs Done
+Number of operation/s:	2.97801
+operation Time	21490.8 ms
+operation Bytes Sent	16616688 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltlayernorm-we r=1
+All Base OTs Done
+Number of operation/s:	1.80896
+operation Time	35379.5 ms
+operation Bytes Sent	228449232 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testgelu-we r=1
+All Base OTs Done
+Number of operation/s:	3831.42
+operation Time	51314.6 ms
+operation Bytes Sent	578322432 bytes
+operation rounds	137 round
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testsoftmax-we r=1
+All Base OTs Done
+Number of operation/s:	3.05297
+operation Time	20963.2 ms
+operation Bytes Sent	19576560 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testlayernorm-we r=1
+All Base OTs Done
+Number of operation/s:	1.80287
+operation Time	35499 ms
+operation Bytes Sent	228449232 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltgelu-we r=1
+All Base OTs Done
+Number of operation/s:	4155.17
+operation Time	47316.5 ms
+operation Bytes Sent	385789952 bytes
+operation rounds	116 round
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltsoftmax-we r=1
+All Base OTs Done
+Number of operation/s:	1.54888
+operation Time	41320.2 ms
+operation Bytes Sent	16616688 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltlayernorm-we r=1
+All Base OTs Done
+Number of operation/s:	1.10592
+operation Time	57870.6 ms
+operation Bytes Sent	228449232 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testgelu-we r=1
+All Base OTs Done
+Number of operation/s:	3064.36
+operation Time	64159.6 ms
+operation Bytes Sent	578322432 bytes
+operation rounds	137 round
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testsoftmax-we r=1
+All Base OTs Done
+Number of operation/s:	1.57155
+operation Time	40724.2 ms
+operation Bytes Sent	19576560 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testlayernorm-we r=1
+All Base OTs Done
+Number of operation/s:	1.10528
+operation Time	57904.1 ms
+operation Bytes Sent	228449232 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltgelu-we r=1
+All Base OTs Done
+Number of operation/s:	3097.63
+operation Time	63470.5 ms
+operation Bytes Sent	385789952 bytes
+operation rounds	116 round
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltsoftmax-we r=1
+All Base OTs Done
+Number of operation/s:	2.98986
+operation Time	21405.7 ms
+operation Bytes Sent	16616688 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltlayernorm-we r=1
+All Base OTs Done
+Number of operation/s:	1.26073
+operation Time	50764.4 ms
+operation Bytes Sent	228449232 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testgelu-we r=1
+All Base OTs Done
+Number of operation/s:	2082.39
+operation Time	94414.8 ms
+operation Bytes Sent	578322432 bytes
+operation rounds	137 round
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testsoftmax-we r=1
+All Base OTs Done
+Number of operation/s:	3.03021
+operation Time	21120.6 ms
+operation Bytes Sent	19576560 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testlayernorm-we r=1
+All Base OTs Done
+Number of operation/s:	1.16514
+operation Time	54929.1 ms
+operation Bytes Sent	228449232 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltgelu-we r=1
+All Base OTs Done
+^C
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltgelu-we r=1
+All Base OTs Done
+Number of operation/s:	2849.2
+operation Time	69004.5 ms
+operation Bytes Sent	385789952 bytes
+operation rounds	116 round
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltsoftmax-we r=1
+All Base OTs Done
+Number of operation/s:	1.56518
+operation Time	40889.8 ms
+operation Bytes Sent	16616688 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./boltlayernorm-we r=1
+All Base OTs Done
+Number of operation/s:	0.868056
+operation Time	73727.9 ms
+operation Bytes Sent	228449232 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testgelu-we r=1
+All Base OTs Done
+Number of operation/s:	1958.12
+operation Time	100407 ms
+operation Bytes Sent	578322432 bytes
+operation rounds	137 round
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testsoftmax-we r=1
+All Base OTs Done
+Number of operation/s:	1.54308
+operation Time	41475.5 ms
+operation Bytes Sent	19576560 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ ./testlayernorm-we r=1
+All Base OTs Done
+Number of operation/s:	0.915888
+operation Time	69877.6 ms
+operation Bytes Sent	228449232 bytes
+(base) guan@3080:/media/guan/lab1/holy/paper/lms_paper/EzPC/SCI/build/bin$ 
