@@ -17,9 +17,10 @@ SEAL and Eigen are included in `extern/` and are automatically compiled and inst
 
 ## Build and Run
 
-To build the library:
+To compile‌ the SCI library:
 
 ```
+cd ./SCI
 mkdir build
 cd ./build
 cmake ..
